@@ -6,7 +6,13 @@ email:
     text: contact
 homepage:
   url: https://naxingyu.github.io
-  text: naxingyu.github.io
+  text: Homepage
+linkedin:
+  url: https://www.linkedin.com/in/naxingyu/
+  text: LinkedIn
+github:
+  url: https://github.com/naxingyu
+  text: Github
 phone: (86)-13811763663
 ---
 
@@ -142,7 +148,7 @@ _IEEE International Symposium on Chinese Spoken Language Processing, Hongkong, C
 ### **Tone Generation by Maximizing Joint Likelihood of Syllabic HMMs for Mandarin Speech Synthesis**
 
 **Xingyu Na**, Chaomin Wang, Xiang Xie, Jingming Kuang, Yaling He.<br>
-_Speech Prosody, Shanghai, China, 2012._ [[paper](http://isca-speech.org/archive/sp2012/papers/sp12_023.pdf)]<br>
+_Speech Prosody, Shanghai, China, 2012._ [[pdf](http://isca-speech.org/archive/sp2012/papers/sp12_023.pdf)]<br>
 
 ## Service
 
