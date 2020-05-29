@@ -16,7 +16,7 @@ github:
 phone: (86)-13811763663
 ---
 
-# Xingyu **NA**
+# **那** 兴宇
 
 <!--
 include contact information from the front matter
@@ -28,15 +28,15 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Education
+## 教育经历
 
-### **Beijing Institute of Technology** `2008.9 - 2013.4`
+### **北京理工大学** `2008.9 - 2013.4`
 
 ```
-Beijing, China
+北京, 中国
 ```
 
-- Ph.D. thesis : Personalization of HMM-based Speech Synthesis
+- 博士论文题目 : 基于HMM的个性化语音合成
 - Co-advised by [Jingming Kuang](http://renshichu.bit.edu.cn//mxms/jcrc/112702.htm) and [Xiang Xie](http://sie.bit.edu.cn/szdw/jstd/txjzyjs2/51591.htm)
 
 ### **Beijing Institute of Technology** `2004.9 - 2008.7`
@@ -48,7 +48,7 @@ Beijing, China
 - B.Eng. in Mechanical and Electronic Engineering
 - GPA 4.0, ranking 1 / 60
 
-## Experience
+## 工作经历
 
 ### **Microsoft, STC Asia** `2017.8 - `
 
