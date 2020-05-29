@@ -3,13 +3,13 @@ layout: cv
 title: Xingyu Na
 email: 
     url: mailto:asr.naxingyu@gmail.com
-    text: contact
+    text: 联系我
 homepage:
   url: https://naxingyu.github.io
-  text: Homepage
+  text: 主页
 linkedin:
   url: https://www.linkedin.com/in/naxingyu/
-  text: LinkedIn
+  text: 领英档案
 github:
   url: https://github.com/naxingyu
   text: Github
@@ -33,58 +33,66 @@ Supported arguments:
 ### **北京理工大学** `2008.9 - 2013.4`
 
 ```
-北京, 中国
+中国, 北京
 ```
 
 - 博士论文题目 : 基于HMM的个性化语音合成
-- Co-advised by [Jingming Kuang](http://renshichu.bit.edu.cn//mxms/jcrc/112702.htm) and [Xiang Xie](http://sie.bit.edu.cn/szdw/jstd/txjzyjs2/51591.htm)
+- 导师 [匡镜明](http://renshichu.bit.edu.cn//mxms/jcrc/112702.htm), 副导师 [谢湘](http://sie.bit.edu.cn/szdw/jstd/txjzyjs2/51591.htm)
 
-### **Beijing Institute of Technology** `2004.9 - 2008.7`
+### **北京理工大学** `2004.9 - 2008.7`
 
 ```
-Beijing, China
+中国, 北京
 ```
 
-- B.Eng. in Mechanical and Electronic Engineering
-- GPA 4.0, ranking 1 / 60
+- 机电工程系
+- GPA 4.0, 专业排名第1
 
 ## 工作经历
 
-### **Microsoft, STC Asia** `2017.8 - `
+### **微软(中国), STC Asia** `2017.8 至今 `
 
-_Senior Applied Scientist_<br>
-Work on speech recognition features for [**Xiaoice**](https://news.microsoft.com/apac/features/much-more-than-a-chatbot-chinas-xiaoice-mixes-ai-with-emotions-and-wins-over-millions-of-fans/), in both [full-duplex](https://blogs.microsoft.com/ai/xiaoice-full-duplex/) and half-duplex fashion, covering various applicational scenarios, such as [IoT](https://pandaily.com/ces2018-microsoft-xiaomi-unveil-worlds-first-dual-ai-voice-assistant/). My duties are:
-* Designed and developed acoustic model training system for speech recognition
-* Delivered AMs for Xiaoice and [Rinna](https://www.rinna.jp/) applications
-* Lead the optimization of SR decoder and cloud service
+_资深应用科学家_<br>
+在微软[**小冰**](https://news.microsoft.com/apac/features/much-more-than-a-chatbot-chinas-xiaoice-mixes-ai-with-emotions-and-wins-over-millions-of-fans/)，主持开发语音识别系统，服务于[全双工对话](https://blogs.microsoft.com/ai/xiaoice-full-duplex/)等多个产品, 涵盖[IoT](https://pandaily.com/ces2018-microsoft-xiaomi-unveil-worlds-first-dual-ai-voice-assistant/)和车载等多个应用场景。完成的工作主要有:
+* 搭建语音识别声学模型训练平台
+* 为微软小冰和日本版[Rinna](https://www.rinna.jp/)的应用交付声学模型
+* 语音识别解码器和云服务的开发和持续优化
 
-### **Alibaba, Robotics Subsidiary** `2016.12 - 2017.6`
+### **阿里巴巴机器人** `2016.12 - 2017.6`
 
-_Senior Staff Engineer_<br>
-[Alibaba Robotics](https://www.softbankrobotics.com/corp/pressroom/20161013a/) was founded for localized operations of Softbanks robot called Pepper. I acted as leader of the Speech & Dialog team. My contributions were:
-* Designed the architacture of light voice interaction system for robot.
-* Optimized audio noise supporesion modules on Pepper.
+_语音技术专家_<br>
+[阿里巴巴机器人](https://www.softbankrobotics.com/corp/pressroom/20161013a/)的主营业务是日本软银机器人Pepper的本地化开发和运营。我负责带领语音和对话团队，完成的工作主要有:
+* 为机器人操作系统设计端上语音交互技术架构，完成演示系统
+* 优化Pepper的声学降噪模块
 
-### **LeTV, LeLe Innovation Subsidiary** `2015.12 - 2016.12`
+### **乐视语音** `2015.12 - 2016.12`
 
-_Senior Researcher_<br>
-Worked on acoustic modelling for SR and voice wake-up.
+_高级研究员_<br>
+负责语音识别和唤醒的声学模型技术研发。
 
-### **Chinese Academy of Sciences, Institute of Acoustics** `2014.3 - 2015.12`
+### **中国科学院声学研究所** `2014.3 - 2015.12`
 
-_Assistant Researcher_<br>
+_助理研究员_<br>
 
-### **Samsung R&D Institute of China, Languge Computing Lab** `2014.1 - 2014.2`
+### **三星中国研发中心** `2014.1 - 2014.2`
 
-_Intern Engineer_<br>
-Worked on optimization of TTS training pipelines.
+_实习工程师_<br>
+优化语音合成训练平台。
 
-### **Idiap Research Institute, Speech and Audio Group** `2012.9 - 2013.8`
+### **瑞士IDIAP研究院** `2012.9 - 2013.8`
 
-_Research Intern_<br>
+_实习生_<br>
 I was sponsored by Chinese Scholarship Council as joint Ph.D. at Idiap for a year, advised by [Phil Garner](http://www.idiap.ch/~pgarner).
 
-## Publications
+## 出版物
+
+### **Kaldi语音识别实战**
+
+陈果果，都家宇，**那兴宇**，张俊博<br>
+电子工业出版社，
+[京东](https://item.jd.com/12833388.html)
+[亚马逊](https://www.amazon.cn/dp/B088QX6Q1J)
+[当当](http://product.dangdang.com/28529384.html)
 
 ### **AISHELL-2: Transforming Mandarin ASR Research Into Industrial Scale**
 
@@ -150,9 +158,9 @@ _IEEE International Symposium on Chinese Spoken Language Processing, Hongkong, C
 **Xingyu Na**, Chaomin Wang, Xiang Xie, Jingming Kuang, Yaling He.<br>
 _Speech Prosody, Shanghai, China, 2012._ [[pdf](http://isca-speech.org/archive/sp2012/papers/sp12_023.pdf)]<br>
 
-## Service
+## 学术界服务
 
-Reviewer:
+审稿人:
 * Speech Communication
 * EURASIP Journal on Audio, Speech, and Music Processing
 * KSII Transactions on Internet and Information Systems
