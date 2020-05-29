@@ -30,7 +30,7 @@ Supported arguments:
 
 ## 教育经历
 
-### **北京理工大学** `2008.9 - 2013.4`
+### **北京理工大学** `2008.9 - 2014.3`
 
 ```
 中国, 北京
@@ -81,8 +81,8 @@ _实习工程师_<br>
 
 ### **瑞士IDIAP研究院** `2012.9 - 2013.8`
 
-_实习生_<br>
-I was sponsored by Chinese Scholarship Council as joint Ph.D. at Idiap for a year, advised by [Phil Garner](http://www.idiap.ch/~pgarner).
+_联培博士生_<br>
+从事语音合成的研究工作，导师 [Phil Garner](http://www.idiap.ch/~pgarner).
 
 ## 出版物
 
